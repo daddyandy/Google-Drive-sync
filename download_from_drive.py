@@ -29,8 +29,8 @@ CLIENT_SECRET_FILE = 'client_secret.json'
 APPLICATION_NAME = 'Drive Sync'
 
 # Declare full path to folder and folder name
-FULL_PATH = r'PUT YOUR FULL FOLDER PATH HERE'
-DIR_NAME = 'PUT YOUR FOLDER NAME HERE'
+FULL_PATH = r'C:\Users\admin\Desktop\Engr Nikko's File'
+DIR_NAME = 'Engr Nikko's File'
 # Or simply
 # DIR_NAME = FULL_PATH.split('/')[-1]
 
